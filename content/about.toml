@@ -3,11 +3,11 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Strongly correlated 2D materials and moiré systems",
-  "Fractional quantum Hall and fractional Chern insulators",
-  "Anyonic exciton condensation and quantum anomalous Hall states",
-  "Unconventional superconductivity and quantum criticality",
-  "Tensor networks (DMRG, isoTNS) and numerical many-body methods",
+  "Strongly correlated 2D materials",
+  "Fractional quantum Hall states",
+  "Unconventional superconductivity",
+  "Quantum criticality",
+  "Tensor networks and numerical many-body methods",
   "Topological quantum field theory and anomalies"
 ] 
 
