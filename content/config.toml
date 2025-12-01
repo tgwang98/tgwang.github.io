@@ -1,11 +1,11 @@
 [site]
-title = "Taige (Tiger) Wang"
+title = "Taige Wang"
 description = "Condensed matter theorist working on strongly correlated 2D materials, fractional quantum Hall physics, and unconventional superconductivity."
 favicon = "/favicon.svg"
 last_updated = "December 1, 2025"
 
 [author]
-name = "Taige (Tiger) Wang"
+name = "Taige Wang"
 title = "Postdoctoral Fellow in Condensed Matter Theory"
 institution = "Harvard University & MIT"
 avatar = "/bio.jpg"
