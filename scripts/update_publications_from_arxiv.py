@@ -30,7 +30,7 @@ import requests
 # --------- Configuration ---------
 
 AUTHOR_PROFILE_URL = "https://arxiv.org/a/wang_t_9.html"
-OUTPUT_BIB = os.path.join("content", "publications.bib")
+OUTPUT_BIB = os.path.join("content", "cv.md")
 MAX_ENTRIES = 500  # safety cap
 
 # arXiv IDs (without version) that should be "selected"
