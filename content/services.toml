@@ -1,9 +1,34 @@
 type = "card"
 title = "Services"
-description = "Professional services and community involvement."
+description = "Professional service and community involvement."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Referee"
+subtitle = "Reports on Progress in Physics and IOP journals"
+date = "2025–present"
+content = "Referee for IOP journals, including Reports on Progress in Physics."
+
+[[items]]
+title = "Referee"
+subtitle = "Nature, Nature Communications"
+date = "2024–present"
+content = "Reviewed manuscripts on correlated 2D materials and quantum Hall physics."
+
+[[items]]
+title = "Referee"
+subtitle = "Physical Review X, Physical Review Letters, Physical Review B, Physical Review Research"
+date = "2022–present"
+content = "Refereed articles in condensed matter theory and quantum many-body physics."
+
+[[items]]
+title = "Student Advisor"
+subtitle = "BPIE program, UC Berkeley Physics"
+date = "2023–2025"
+content = "Advised undergraduate students on research projects and graduate school applications."
+
+[[items]]
+title = "Grand Award Judge and Mandarin Interpreter"
+subtitle = "Intel International Science and Engineering Fair (ISEF)"
+date = "2017–present"
+content = "Served as judge and interpreter for physics and engineering projects."
+
