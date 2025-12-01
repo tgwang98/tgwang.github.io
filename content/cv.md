@@ -1,26 +1,36 @@
+## Experience
+**Harvard University**, Harvard Quantum Initiative (HQI) Prize Postdoctoral Fellow  
+*2025 – 2028*
+- Simons Collaboration on Ultra-Quantum Matter (UQM) Postdoctoral Fellow
+- Hosts: Ashvin Vishwanath and Eslam Khalaf.
+  
+**Massachusetts Institute of Technology**, Joint Postdoctoral Fellow  
+*2025 – 2028*  
+- Hosts: Patrick A. Lee.
+
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**University of California, Berkeley** – PhD in Physics  
+*2020 – 2025*  
+- Advisor: Michael P. Zaletel
+- **Graduate Fellow**, Kavli Institute for Theoretical Physics (KITP), *2024.01 – 2024.06*.
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**University of California, San Diego** – BSc (Honors) in Physics  
+*2016 – 2020*  
+- GPA: 3.99 / 4.0  
+- **Intercampus Visitor**, UC Berkeley, *2018.08 – 2018.12* (GPA: 4.0 / 4.0).
 
-## Experience
-
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**No. 2 High School of East China Normal University**  
+*2013 – 2016*  
+- GPA: 90 / 100.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Theoretical & Numerical Methods:**  
+  Quantum many-body theory, topological field theory, renormalization group, DMRG and tensor networks, exact diagonalization.
 
-## Awards & Honors
+- **Computing:**  
+  Python (NumPy/SciPy), Julia, C/C++, Mathematica, high-performance computing and cluster workflows.
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Languages:**  
+  English (fluent), Chinese (native).
