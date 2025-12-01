@@ -3,8 +3,15 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities."
-tags = ["Undergraduate", "CS"]
+title = "Graduate Student Instructor – Physics 7B"
+subtitle = "Physics for Scientists and Engineers, UC Berkeley"
+date = "2020–2021"
+content = "Led discussion and laboratory sections, graded homework and exams, and supported students in core electromagnetism and optics."
+tags = ["Undergraduate", "Core Physics"]
+
+[[items]]
+title = "Graduate Student Instructor – Physics 8A"
+subtitle = "Introductory Physics, UC Berkeley"
+date = "2020–2021"
+content = "Taught introductory mechanics to science and engineering majors."
+tags = ["Undergraduate", "Introductory Physics"]
