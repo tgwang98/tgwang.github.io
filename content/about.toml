@@ -9,7 +9,7 @@ research_interests = [
   "Unconventional superconductivity and quantum criticality",
   "Tensor networks (DMRG, isoTNS) and numerical many-body methods",
   "Topological quantum field theory and anomalies"
-]
+] 
 
 [[sections]]
 id = "about"
