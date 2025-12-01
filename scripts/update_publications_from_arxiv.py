@@ -287,8 +287,8 @@ def arxiv_entry_to_bibtex(entry: ArxivEntry) -> str:
     # Selected / preview / keywords
     if base_id in SELECTED_IDS:
         fields.append("  selected     = {true}")
-        # preview image, e.g. public/previews/2503.16738.png
-        fields.append(f"  preview      = {{previews/{base_id}.png}}")
+        # preview image, e.g. public/papers/2503.16738.png
+        fields.append(f"  preview      = {{papers/{base_id}.png}}")
     else:
         fields.append("  selected     = {false}")
         # Do NOT emit preview at all for non-selected papers
