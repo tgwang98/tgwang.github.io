@@ -1,27 +1,33 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Selected fellowships, prizes, and honors."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Jackson C. Koo Award"
+subtitle = "UC Berkeley, Department of Physics"
 date = "2025"
-content = "Description of the award."
+content = "Departmental award recognizing outstanding research achievements in theoretical physics."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Kavli Institute for Theoretical Physics Graduate Fellow"
+subtitle = "KITP, UC Santa Barbara"
 date = "2024"
-content = "Description of the award."
+content = "Graduate Fellow at the Kavli Institute for Theoretical Physics."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Shang-keng Ma Memorial Award"
+subtitle = "UC San Diego"
+date = "2020"
+content = "Award for outstanding undergraduate research in physics."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Selma and Robert Silagi Award for Undergraduate Excellence"
+subtitle = "UC San Diego"
+date = "2020"
+content = "Recognition for overall academic excellence in the Department of Physics."
+
+[[items]]
+title = "First Award, Patent and Trademark Office Society"
+subtitle = "Intel International Science and Engineering Fair (ISEF)"
+date = "2015"
+content = "International award at ISEF for research in physics and engineering."
