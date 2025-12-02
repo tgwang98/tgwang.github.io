@@ -5,10 +5,31 @@ description = "Broad directions I am currently pursuing in condensed matter theo
 [[items]]
 title = "Strongly correlated 2D materials and moiré systems"
 subtitle = "Graphene multilayers, twisted TMDs, and engineered flat bands"
+# Put a moiré illustration at public/images/moire_lattice.png
+image = "/public/moire_lattice.png"
 content = """
-I study correlation-driven phases in tunable 2D platforms such as rhombohedral multilayer graphene, twisted MoTe₂/WSe₂, and quantum Hall graphene devices. A key theme is how interactions, topology, and symmetry conspire to produce anomalous Hall crystals, Wigner crystals, and fractional Chern insulators at zero or small magnetic field.
+My long-term goal is to use moiré and other 2D platforms as a controllable laboratory for truly exotic quantum phases including topological order and unconventional superconductors, and to understand not only each phase, but the web of phase transitions that connect them.
+
+Moiré systems are *highly tunable* in a way that is rare in traditional condensed-matter materials. By changing density, displacement field, twist angle, or magnetic field, the same device can realize very different phases: in graphene multilayers and twisted TMDs one can see quantum anomalous Hall (QAH) states, fractional QAH (FQAH) states, and superconductivity in a single device. This tunability makes it possible to build microscopic models that can be quantitatively confronted with experiment, rather than just qualitatively compared.
+
+The first step in organizing this landscape is to understand the “parent” states from which these exotic phases descend. Because these systems carry spin and valley degrees of freedom, the parent phases are often various forms of magnetic or isospin order. Different patterns may or may not break time-reversal symmetry, and therefore carry a net Berry curvature. In rhombohedral graphene and twisted TMDs, we mapped out the first magnetic phase diagrams with realistic models from first-principle calculations and identified the competition between different orders. Once one understands which orders produce Chern bands, the appearance of QAH states becomes a natural consequence.
+
+The second step is to ask how far this logic extends beyond moiré superlattices. In pentalayer graphene, we discovered a new “anomalous Hall crystal” phase: a Wigner crystal that nevertheless carries a Hall response. Here interactions spontaneously open a transport gap *without* relying on a moiré potential. In the presence of disorder this state behaves as a QAH insulator.
+
+Importantly, these 2D materials mark the first examples a QAH state is realized in an **isolated Chern band**. By fractionally doping these Chern bands, one obtains the long sought fractional QAH states (FQAH). Experiments by Long Ju, Xiaodong Xu and collaborators confirm this picture, and we provided quantitative microscopic calculations that match the observed phases.
+
+The more intriguing descendant phases for me are the superconductors. Many of these 2D systems exhibit superconductivity, but in different parameter windows and with different properties, suggesting potentially different mechanisms. We have proposed three broad mechanisms:
+
+1. **Isospin-fluctuation-mediated pairing.** In bilayer and trilayer graphene, superconductivity tends to appear near the boundaries between competing magnetic phases, where isospin fluctuations are strongest. We analyzed how strong these fluctuations are and what pairing symmetries they naturally favor.
+
+2. **Charge-density-fluctuation-mediated pairing.** In pentalayer graphene we studied the electron crystal phases. The phonons of an electron crystal play a role analogous to lattice phonons and can mediate superconductivity even in higher-angular-momentum pairing channels.
+
+3. **Anyon superconductivity.** This is the most exotic mechanism. In twisted TMDs, superconductivity often appears very close to FQAH states and nearby re-entrant integer quantum Hall (RIQH) phases. Using field theory, we showed that superconductivity and RIQH are the natural descendants of a FQAH state, whereas a simple metallic phase is not. Numerical work supports this picture and provides an example of superconductivity induced by purely repulsive interactions.
+
+Taken together, moiré and 2D materials provide a uniquely versatile setting in which one can realize QAH, FQAH, electron crystals, and several distinct routes to superconductivity. This makes it possible not only to study each phase in isolation, but to track *continuous transitions* between them and to ask which phases are the true “parent” states from which the others emerge.
 """
-tags = ["2D materials", "Moiré systems", "Chern bands"]
+tags = ["Moiré materials", "Graphene multilayers", "QAH & FQAH", "Unconventional superconductivity"]
+
 
 [[items]]
 title = "Fractional quantum Hall states and fractional Chern insulators"
