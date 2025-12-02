@@ -1,0 +1,43 @@
+type = "card"
+title = "Research Interests"
+description = "Broad directions I am currently pursuing in condensed matter theory."
+
+[[items]]
+title = "Strongly correlated 2D materials and moiré systems"
+subtitle = "Graphene multilayers, twisted TMDs, and engineered flat bands"
+content = """
+I study correlation-driven phases in tunable 2D platforms such as rhombohedral multilayer graphene, twisted MoTe₂/WSe₂, and quantum Hall graphene devices. A key theme is how interactions, topology, and symmetry conspire to produce anomalous Hall crystals, Wigner crystals, and fractional Chern insulators at zero or small magnetic field.
+"""
+tags = ["2D materials", "Moiré systems", "Chern bands"]
+
+[[items]]
+title = "Fractional quantum Hall states and fractional Chern insulators"
+subtitle = "Anyon condensation, non-Abelian order, and criticality"
+content = """
+My work focuses on understanding fractional quantum Hall and fractional Chern insulator phases, including their non-Abelian excitations, edge physics, and continuous phase transitions out of topological order. I use a combination of field theory, tensor networks, and microscopic modeling that can be directly compared with experiments.
+"""
+tags = ["FQH", "FCI", "Topological order"]
+
+[[items]]
+title = "Unconventional superconductivity near topological phases"
+subtitle = "Chiral pairing and fluctuation-mediated mechanisms"
+content = """
+I investigate superconducting states that emerge near Chern and fractional Chern insulators, with an emphasis on chiral pairing, anyon superfluidity, and fluctuation-mediated pairing mechanisms. A central goal is to connect microscopic models to realistic 2D materials where such phases can be realized and probed.
+"""
+tags = ["Superconductivity", "Anyon superfluids"]
+
+[[items]]
+title = "Tensor networks and numerical many-body methods"
+subtitle = "DMRG, isoTNS, and realistic modeling"
+content = """
+On the numerical side, I develop and apply tensor-network methods (DMRG, isoTNS and related algorithms) to strongly correlated 2D systems. The focus is on using these tools for realistic modeling of experimental devices, including edge reconstruction, entanglement spectra, and dynamical response.
+"""
+tags = ["DMRG", "Tensor networks", "Numerical methods"]
+
+[[items]]
+title = "Field-theoretic descriptions and anomalies"
+subtitle = "Topological field theory, higher central charge, and emergent gauge fields"
+content = """
+Many of my projects are guided by effective field theories and anomaly considerations, such as Chern–Simons theories for quantum Hall states, emergent gauge fields, and higher central charge diagnostics of gappability. These frameworks help organize the landscape of possible phases and connect microscopic models to universal signatures.
+"""
+tags = ["Field theory", "Anomalies", "Higher central charge"]
