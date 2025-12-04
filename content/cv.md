@@ -35,15 +35,16 @@
 ## Teaching & Service
 
 **Referee**  
-- Reports on Progress in Physics and other IOP journals (*2025 – Present*).  
 - Nature, Nature Communications (*2024 – Present*).  
 - Physical Review X, Physical Review Letters, Physical Review B, Physical Review Research (*2022 – Present*).
+- Reports on Progress in Physics and other IOP journals (*2025 – Present*).  
 
 **Teaching & Mentoring**  
 - Graduate Student Instructor, UC Berkeley Physics  
   - Physics 7B – Physics for Scientists and Engineers  
   - Physics 8A – Introductory Physics (*2020 – 2021*).  
-- Undergraduate and graduate mentorship on tensor networks and quantum Hall projects (*2023 – 2025*).
+- Graduate and undergraduate mentorship on tensor networks and quantum Hall projects (*2023 – 2025*).
+  - Jiechao Feng (PhD student at UC Berkeley), Mingxuan Wang (now PhD student at Princeton), Sian Yang (now PhD student at Pittsburgh), Kevin Ye, Yixin Zhang, Ruoyao Zheng.
 
 **Outreach**  
 - Grand award judge and Mandarin interpreter, Intel ISEF (*2017 – Present*).
