@@ -71,7 +71,7 @@ tags = ["Quantum criticality", "2+1D CFTs", "Chern–Simons–matter", "Fuzzy sp
 [[items]]
 title = "Numerical methods for many-body systems"
 subtitle = "Tensor networks, neural quantum states, and quantum bootstrap"
-image = "/isotns.png"
+image = "/isoTNS.png"
 content = """
 Many of the projects above rely on large scale numerics, but a separate thread of my work is to **develop new numerical methods** that can keep up with the questions posed by strongly correlated systems. I am especially interested in projected entangled pair states (PEPS), neural quantum states (NQS), and quantum bootstrap approaches.
 
